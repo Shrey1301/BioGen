@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFF"
+    android:id="@+id/parent_login"
+    tools:context=".LoginActivity">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_80sdp"
+        android:layout_marginTop="@dimen/_80sdp"
+        android:src="@drawable/longicon" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_margin="@dimen/_5sdp"
+        android:orientation="vertical">
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_5sdp"
+            android:hint="Enter Email"
+            app:startIconDrawable="@drawable/ic_email"
+            app:startIconTint="@color/colorPrimary">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edit_username"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/cairo"
+                android:inputType="textEmailAddress" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <com.google.android.material.textfield.TextInputLayout
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_5sdp"
+            android:hint="Enter Password"
+            app:startIconDrawable="@drawable/ic_password"
+            app:endIconMode="password_toggle"
+            app:startIconTint="@color/colorPrimary">
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/edit_password"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/cairo"
+                android:inputType="textPassword" />
+
+        </com.google.android.material.textfield.TextInputLayout>
+
+        <TextView
+            android:id="@+id/forget_password"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end"
+            android:fontFamily="@font/cairo"
+            android:padding="@dimen/_5sdp"
+            android:text="Forget Password?"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/_10ssp"
+            android:visibility="gone"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/button_login"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="@dimen/_100sdp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/_5sdp"
+            android:fontFamily="@font/cairo"
+            android:gravity="center"
+            android:text="Login"
+            android:textAllCaps="true"
+            android:textSize="@dimen/_12ssp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/sign_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="end"
+        android:layout_margin="@dimen/_5sdp"
+        android:fontFamily="@font/cairo"
+        android:padding="@dimen/_5sdp"
+        android:text="Don't Have an Account? Sign Up"
+        android:textColor="@color/txtBlack"
+        android:textSize="@dimen/_10ssp"
+        android:textStyle="bold" />
+</RelativeLayout>

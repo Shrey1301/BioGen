@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EAEAEA"
+    android:orientation="vertical"
+    tools:context=".CustomerSupportActivity">
+
+    <include layout="@layout/toolbar_all" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/_5sdp">
+
+        <TextView
+            android:id="@+id/customer_service_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cairo"
+            android:textSize="@dimen/_14ssp"
+            android:textColor="@color/txtBlack"
+            android:drawableStart="@drawable/ic_phone"
+            android:drawablePadding="@dimen/_5sdp"
+            android:drawableTint="@color/colorPrimary"
+            android:text="(514) 495-0549"/>
+
+        <TextView
+            android:id="@+id/customer_service_email"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cairo"
+            android:textSize="@dimen/_14ssp"
+            android:textColor="@color/txtBlack"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:drawableStart="@drawable/ic_email"
+            android:drawablePadding="@dimen/_5sdp"
+            android:drawableTint="@color/colorPrimary"
+            android:text=" info@biogenique.com"/>
+
+        <TextView
+            android:id="@+id/customer_service_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/cairo"
+            android:textSize="@dimen/_14ssp"
+            android:textColor="@color/txtBlack"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:drawableStart="@drawable/ic_location"
+            android:drawablePadding="@dimen/_5sdp"
+            android:drawableTint="@color/colorPrimary"
+            android:text=" 5393 Park Ave, Montreal"/>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragments.HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <include
+            android:id="@+id/toolbar"
+            layout="@layout/toolbar_all" />
+
+        <com.daimajia.slider.library.SliderLayout
+            android:id="@+id/sliderLayout"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_150sdp"
+            android:layout_below="@+id/toolbar" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_5sdp"
+            android:text="Featured"
+            android:textSize="@dimen/_14ssp"
+            android:fontFamily="@font/cairo"
+            android:textColor="@color/txtBlack"
+            android:textStyle="bold"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_view_popular"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_5sdp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_5sdp"
+            android:text="Shop By Category"
+            android:textSize="@dimen/_14ssp"
+            android:fontFamily="@font/cairo"
+            android:textColor="@color/txtBlack"
+            android:textStyle="bold"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_view_category"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_5sdp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_80sdp"
+            android:layout_gravity="center"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginBottom="@dimen/_5sdp"
+            android:background="#97144F9B"
+            android:fontFamily="@font/cairo"
+            android:gravity="center"
+            android:maxLines="3"
+            android:paddingStart="@dimen/_10ssp"
+            android:paddingEnd="@dimen/_10ssp"
+            android:text="GET THE BIOGENIQUE HEALTH PROTOCOLS. GET YOUR UNIQUE HEALTH CONDITIONS MATCHED WITH NATURAL MEDICINE TO AID IMPROVE YOUR HEALTH BY OUR REGISTERED NATUROPATH."
+            android:textColor="@color/white" />
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:text="Best Seller"
+            android:textSize="@dimen/_14ssp"
+            android:fontFamily="@font/cairo"
+            android:textColor="@color/txtBlack"
+            android:textStyle="bold"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_view_best_seller"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_5sdp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:text="Popular"
+            android:fontFamily="@font/cairo"
+            android:textSize="@dimen/_14ssp"
+            android:textColor="@color/txtBlack"
+            android:textStyle="bold"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_view_teas"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            android:layout_marginEnd="@dimen/_5sdp"
+            android:layout_marginBottom="@dimen/_50sdp"/>
+
+    </LinearLayout>
+</ScrollView>

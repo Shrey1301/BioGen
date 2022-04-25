@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/activity_dashboard.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/activity_login.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/activity_sign_up.xml" value="0.25" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/activity_splash_screen.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/fragment_category.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/fragment_home.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/item_layout_cart.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/item_layout_home.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/item_layout_home_category.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/item_layout_order.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/item_layout_prductlist.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/item_layout_shopping.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/shrey_000/AndroidStudioProjects/BioGen/app/src/main/res/layout/item_layout_subcategory.xml" value="0.17028985507246377" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

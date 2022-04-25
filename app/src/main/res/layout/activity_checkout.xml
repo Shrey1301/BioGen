@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#EAEAEA"
+    tools:context=".UpdateDeliveryLocationActivity">
+
+    <include layout="@layout/toolbar_all" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/_5sdp">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="@dimen/_5sdp"
+            android:elevation="@dimen/_2sdp"
+            app:cardBackgroundColor="@color/white">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="@dimen/_5sdp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Delivery Details,"
+                    android:textStyle="bold"
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:fontFamily="@font/cairo"
+                    android:textSize="@dimen/_14ssp"
+                    android:maxLines="5"
+                    android:textColor="@color/txtBlack"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/cart_total_item"
+                    android:text="Total Item: 04"
+                    android:fontFamily="@font/cairo"
+                    android:textSize="@dimen/_14ssp"
+                    android:layout_margin="@dimen/_2sdp"
+                    android:textColor="@color/txtBlack"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/total_amount"
+                    android:text="Total Amount: $400"
+                    android:fontFamily="@font/cairo"
+                    android:textSize="@dimen/_14ssp"
+                    android:layout_margin="@dimen/_2sdp"
+                    android:textColor="@color/txtBlack"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="@dimen/_5sdp"
+            android:elevation="@dimen/_2sdp"
+            android:layout_marginTop="@dimen/_5sdp"
+            app:cardBackgroundColor="@color/white">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="@dimen/_5sdp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Delivery To, "
+                    android:textStyle="bold"
+                    android:layout_marginBottom="@dimen/_5sdp"
+                    android:fontFamily="@font/cairo"
+                    android:textSize="@dimen/_14ssp"
+                    android:maxLines="5"
+                    android:textColor="@color/txtBlack"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/person_name"
+                    android:text="Shrey Patel"
+                    android:fontFamily="@font/cairo"
+                    android:textSize="@dimen/_14ssp"
+                    android:layout_margin="@dimen/_2sdp"
+                    android:maxLines="5"
+                    android:textColor="@color/txtBlack"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/person_phone"
+                    android:text="9566133325"
+                    android:fontFamily="@font/cairo"
+                    android:layout_margin="@dimen/_2sdp"
+                    android:textSize="@dimen/_14ssp"
+                    android:maxLines="5"
+                    android:textColor="@color/txtBlack"/>
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/location"
+                    android:text="Eden-K/1203, Godrej Garden City Jagtpur Crossing, Ahmedabad, Gujarat"
+                    android:fontFamily="@font/cairo"
+                    android:textSize="@dimen/_14ssp"
+                    android:maxLines="3"
+                    android:layout_margin="@dimen/_2sdp"
+                    android:ellipsize="end"
+                    android:textColor="@color/txtBlack"/>
+
+            </LinearLayout>
+
+        </androidx.cardview.widget.CardView>
+
+        <Button
+            android:id="@+id/button_place_order"
+            style="@style/Widget.MaterialComponents.Button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/_5sdp"
+            android:fontFamily="@font/cairo"
+            android:gravity="center"
+            android:text="Place Order"
+            android:textAllCaps="true"
+            android:textSize="@dimen/_12ssp" />
+
+    </LinearLayout>
+</LinearLayout>

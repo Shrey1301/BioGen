@@ -1,0 +1,582 @@
+[
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_profile.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_about.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_cart.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_about.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_right_arrow.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout_prductlist.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\item_layout_prductlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_sub_cat.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\sub_cat.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_right_arrow.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_customer.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_wishlist.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg4.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\bg4.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg5.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\bg5.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_subcategory.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_subcategory.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_privacy_terms_about.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_privacy_terms_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_wishlist.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mainicon.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\mainicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_no_data.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\no_data.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_category.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_wishlist.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_terms.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_terms.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_right_arrow.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_right_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_wishlist.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_location.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_detail.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_product_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout_order.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\item_layout_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout_cart.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\item_layout_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_cart.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg6.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\bg6.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_password.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg9.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\bg9.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_privacy.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_privacy.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_user.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_customer.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_customer.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_terms.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_terms.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_logout.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_customer.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_customer.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_terms.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_terms.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_right_arrow.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_phone.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_order.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_order.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_customer.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_customer.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_street.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_street.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_order.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_order.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_cart.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_customer_support.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_customer_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_order.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_my_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_privacy.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_privacy.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_customer.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_customer.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_privacy.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_privacy.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_account.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_terms.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_terms.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_3.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable\\bg_3.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_terms.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_terms.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_location.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_order.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_order.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_account.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_cart.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout_home_category.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\item_layout_home_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_cart.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\fragment_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_street.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_street.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_2.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable\\bg_2.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_back.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_right_arrow.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_right_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_back.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_delivery_location.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_update_delivery_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_street.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_street.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\font_cairo.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\font\\cairo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_user.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_delete.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg8.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\bg8.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_wishlist.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_wishlist.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout_subcategory.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\item_layout_subcategory.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_privacy.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_privacy.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbar_all.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\toolbar_all.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_back.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout_shopping.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\item_layout_shopping.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_about.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_user.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_email.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_about.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cart_or_wishlist.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_cart_or_wishlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_logout.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_logout.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_street.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_street.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_privacy.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_privacy.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_order.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_order.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_longicon.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\longicon.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_delete.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_product_list.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_product_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_account.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_account.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_demo_item.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\demo_item.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg7.jpg.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\bg7.jpg"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_location.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_location.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_layout_home.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\layout\\item_layout_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_back.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_back.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_street.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_street.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_user.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_user.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi_ic_order.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-anydpi\\ic_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_cart.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_location.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-mdpi\\ic_location.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-hdpi\\ic_phone.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_about.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xhdpi\\ic_about.png"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\font_imprima.xml.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\font\\imprima.xml"
+    },
+    {
+        "merged": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_phone.png.flat",
+        "source": "C:\\Users\\ADMIN\\AndroidStudioProjects\\BioGen\\BioGen\\app\\src\\main\\res\\drawable-xxhdpi\\ic_phone.png"
+    }
+]
